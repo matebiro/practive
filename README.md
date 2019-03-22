@@ -1,2 +1,2 @@
-# practive
+# simple-quote-page
 Codeberry practice
